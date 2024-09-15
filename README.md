@@ -1,7 +1,5 @@
 # Medical Image Analysis and Classification
 
-## Aim
-
 To develop an interactive deep learning-based system that enables users to classify medical images, such as blood and breast images, using a web-based platform.
 
 ## Objectives
